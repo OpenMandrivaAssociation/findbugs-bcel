@@ -14,7 +14,7 @@ Summary:        Byte Code Engineering Library with findbugs extensions
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://jakarta.apache.org/bcel/
+URL:            https://jakarta.apache.org/bcel/
 Source0:        http://www.apache.org/dist/jakarta/bcel/source/bcel-%{version}-src.tar.gz
 # This patch is available in the findbugs release, in src/patches/bcel.diff.
 Source1:        bcel.diff
